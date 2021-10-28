@@ -1,4 +1,4 @@
-### Hi there 👋
+
 - 👋 Hi, I’m @rishirj007
 - 👀 I’m interested in ...web development and Programming
 - 🌱 I’m currently learning ...DSA and Web devlopment.
